@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="4">
+        <file>
+            <url>src/smarthomesystem/ScreenMirrorSetup.java</url>
+            <bookmark id="3">
+                <name/>
+                <line>541</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/smarthomesystem/DataHandler.java</url>
+            <bookmark id="4">
+                <name/>
+                <line>468</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Manel/Documents/NetBeansProjects/SmartHomeSystem/src/smarthomesystem/SetariUsaPanel.java</file>
+            <file>file:/C:/Users/Manel/Documents/NetBeansProjects/SmartHomeSystem/src/smarthomesystem/Settings.java</file>
+            <file>file:/C:/Users/Manel/Documents/NetBeansProjects/SmartHomeSystem/src/smarthomesystem/SettingsForm.java</file>
+            <file>file:/C:/Users/Manel/Documents/NetBeansProjects/SmartHomeSystem/src/smarthomesystem/PanelHomeRGB.java</file>
+            <file>file:/C:/Users/Manel/Documents/NetBeansProjects/SmartHomeSystem/src/smarthomesystem/App.java</file>
+            <file>file:/C:/Users/Manel/Documents/NetBeansProjects/SmartHomeSystem/src/smarthomesystem/SmartHomeSystem.java</file>
+            <file>file:/C:/Users/Manel/Documents/NetBeansProjects/SmartHomeSystem/src/smarthomesystem/Tray.java</file>
+        </group>
+    </open-files>
+</project-private>
